@@ -35,7 +35,7 @@
       + Top 10 Pincodes with Least Transaction amount.
       + Top 10 Pincodes with Highest registered users.
       + Top 10 Pincodes with Least registered users.
-   + Visualized with bar chart and pie chart
+   + Visualized with bar chart and pie chart.
 
  
  
